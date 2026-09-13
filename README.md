@@ -14,7 +14,7 @@ You need a SocialPost.ai account ([free to start](https://socialpost.ai/?utm_sou
 
 **Claude** (claude.ai, Desktop, or Code) — Settings → Connectors → *Add custom connector* → paste the URL → sign in and authorize.
 
-**ChatGPT** (web only, paid plan) — Settings → Connectors → *Advanced settings* → turn on **Developer mode**. Then Settings → Connectors → *Create*, paste the URL, keep OAuth, sign in. In a chat, enable SocialPost.ai from the **+** menu before asking.
+**ChatGPT** (web only, paid plan) — Settings → Plugins → turn on **Developer mode** (bottom of the list; some accounts show it under *Security and login*). Then open **Plugins** in the sidebar → **+** → New Plugin: name it, Connection = *Server URL*, paste the URL, Authentication = *OAuth*, accept the risk notice, *Create*, sign in. In a chat, type **@** and pick SocialPost.ai, or choose it from the tools menu.
 
 **Grok** — Settings → Connectors → add a custom connector → paste the URL → sign in.
 
